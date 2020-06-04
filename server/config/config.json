@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "hacktiv",
+    "database": "db-e-commerce",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "xbfgceusipokan",
+    "password": "9dd1026c364dd0ad2f814b30889f829e9684dcebe295dc6b673069032ee3b215",
+    "database": "d7br2ln43v3l80",
+    "host": "ec2-3-91-139-25.compute-1.amazonaws.com",
+    "dialect": "postgres"
+  }
+}
